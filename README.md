@@ -15,9 +15,7 @@
 | Yes | Yes | Yes |
 
 ## 🎨 Diagrama de classes
-
-![diagrama de classes](https://user-images.githubusercontent.com/98486996/234083286-ad678dda-71dd-47b7-a1c0-279375c60d96.svg)
-
+![diagrama de classes](https://user-images.githubusercontent.com/98486996/234457985-c53848c0-abf8-4614-b1a1-bab6226b0c53.svg)
 ## 🔧 Casos de uso
 ![casos de uso](https://user-images.githubusercontent.com/98486996/234081676-1ab9b4f8-c172-4129-8d5b-96d4d8a2f226.svg)
 ## 🚀 Caso de Uso Estendido
